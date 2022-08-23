@@ -1,0 +1,19 @@
+{
+  "name": "aleatorio",
+  "version": "1.0.1",
+  "description": "Construir un paquete para Node",
+  "main": "src/index.js",
+  "scripts": {
+    "hola": "echo 'Hola mundo de NodeJS'"
+  },
+  "keywords": [
+    "javascript",
+    "npm",
+    "package"
+  ],
+  "author": "Ameth Ordonez <amethgabriel@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "randname-ag": "^1.0.0"
+  }
+}
