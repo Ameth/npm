@@ -1,5 +1,5 @@
 {
-  "name": "aleatorio",
+  "name": "randname-ag",
   "version": "1.0.1",
   "description": "Construir un paquete para Node",
   "main": "src/index.js",
